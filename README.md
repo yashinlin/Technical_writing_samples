@@ -1,8 +1,8 @@
 ### Technical writing samples
 
-1) **Angola Health For All Performance Evaluation**, 2019. This report was written by a team of consultants that I led. I collected the data and wrote the sections for HIV/AIDS and family planning. Due to the typically short timeframe budgeted for USAID performance evaluations, they tend to make heavy use of triangulation of qualitative data, while making use of available quantitative data where available.  
+1) **Angola Health For All Performance Evaluation**, 2019. I led a team of consultants to evaluate this Angolan health project, and I also prepared the HIV/AIDS and family planning sections. Due to the typically short timeframe budgeted for USAID performance evaluations, they tend to make heavy use of triangulation of qualitative data,  making use of quantitative data where available.  
 
-2) **Aflateen Impact Evaluation Baseline Report**, 2013. USAID impact evaluations use experimental or quasi-experimental designs. This evaluation employed a pretest-posttest control group design.
+2) **Aflateen Impact Evaluation Baseline Report**, 2013. This is a baseline study for an impact evaluation that I designed for Mercy Corps/Tajikistan. USAID impact evaluations use experimental or quasi-experimental designs, and this evaluation employed a pretest-posttest control group design.
 
 3) **Assessment of HIV Quality of Care in Cote d’Ivoire**, 2009. This was a assessment of the quality of HIV care in Cote d'Ivoire, using data abstracted from health facility registers. 
    
