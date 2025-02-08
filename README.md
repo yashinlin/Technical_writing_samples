@@ -6,4 +6,7 @@
 
 3) **Assessment of HIV Quality of Care in Cote d’Ivoire**, 2009. This was an assessment of the quality of HIV care in Cote d'Ivoire against WHO standards of care. Data were abstracted from health facility registers. 
    
-5) **Using Quality Assessment to Improve Maternal Care in Nicaragua**, 2003. This case study tells the story of how the Ministry of Health of Nicaragua worked with the QA Project team to assess the quality of care of public health facilities in four municipalities. The results were used by facility-based quality improvement teams to improve their processes (ie. process improvement). Early in my career I produced over 40 case studies documenting quality improvement/process improvement efforts in low income countries, and this is an example of one of those case studies. This experience boosted my interest in using data to guide decision making. 
+4) **Using Quality Assessment to Improve Maternal Care in Nicaragua**, 2003. This case study describes how healthcare providers in Nicaragua worked together to improve the quality of obstetric care at their health centers and posts. They began by measuring
+the extent to which staff performed according to standards. Once aware of the quality gaps, they formed QI teams and used rapid team problem solving to implement quality improvements so that healthcare providers could perform according to obstetric standards. Continuous monitoring shows their success in meeting the standards and improving health outcomes. 
+
+5) **Assessing the Quality of Facility-Level Family Planning Services in Malawi**, 2000. This case study describes how local staff in Malawi collected, analyzed and interpreted quality assessment data to identify opportunities to improve family planning services.
